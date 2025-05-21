@@ -30,5 +30,5 @@ h) Include your time zone.
 
 i) Include a line certifying the [Developer Certificate of Origin](https://bssw.io/items/the-developer-certificate-of-origin)
 
-By submitting this email, you acknowledge that you have read and agree to the course policies listed [here](course_policies.html)
+By submitting this email, you acknowledge that you have read and agree to the course policies listed [here](/policies/course_policies.html)
 

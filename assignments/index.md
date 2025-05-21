@@ -23,6 +23,6 @@
 
 ## Presentations
 
-[P0](P0.md)
+[P0](mid_pres_guide.md)
 
-[P1](P1.md)
+[P1](final_pres_guide.md)
