@@ -1,5 +1,7 @@
 items:
   - title: Home
     url: /index.html
+  - title: Assignments
+    url: /assignments/index.html
   - title: Slides
     url: /slides/index.html
