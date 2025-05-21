@@ -1,1 +1,6 @@
 remote_theme: underground-software/kdlp-theme
+collections:
+  slides:
+    output: true
+relative_links:
+  collections: true
